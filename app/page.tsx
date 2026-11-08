@@ -97,7 +97,7 @@ export default function Home() {
               </p>
               <div className="cta-row">
                 <a className="btn" href="#how">See how it works</a>
-                <a className="btn ghost" href="mailto:your@email.com">Ask about a pilot</a>
+                <a className="btn ghost" href="mailto:rbrian1105@gmail.com">Ask about a pilot</a>
               </div>
               <p className="note">Prototype in development. Readings shown are examples.</p>
             </div>
@@ -255,7 +255,7 @@ export default function Home() {
         <div className="wrap foot-in">
           <strong className="foot-brand"><Icon name="sprout" size={22} /> AiAgri</strong>
           <span>Off-grid monitoring for farms, livestock and protected land.</span>
-          <a href="mailto:your@email.com">your@email.com</a>
+          <a href="mailto:rbrian1105@gmail.com">rbrian1105@gmail.com</a>
         </div>
       </footer>
     </>
